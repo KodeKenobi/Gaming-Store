@@ -1,2 +1,2 @@
 # Gaming-Store
-A cross-platform app developed with Xamarin
+An online Gaming Store cross-platform app developed with Xamarin Forms. 
